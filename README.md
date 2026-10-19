@@ -48,9 +48,11 @@ trabalhoDePortugues_ShankTank/
 ```bash
    cd trabalhoDePortugues_ShankTank
 ```
-3. Abra o arquivo `chocoBooks.html` no navegador.
+3. Abra o arquivo `index.html` no navegador.
 
-Não precisa instalar nada.
+Ou se não quiser clonar nada (clique com o botão do meio para abrir numa nova aba):
+
+[Site hospedado no github-pages](https://gscotrim2006.github.io/trabalhoDePortugues_ShankTank/)
 
 ## 👥 Autoria
 
